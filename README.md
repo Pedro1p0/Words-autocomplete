@@ -20,19 +20,22 @@ Neste projeto, utilizamos um corpus de texto como entrada e realizamos as seguin
 3.Autocompletar:
 - Implementação de uma função que retorna palavras que começam com um determinado prefixo, percorrendo a árvore AVL. A função para de buscar assim que encontrar um nó que não corresponda ao prefixo.
 
-# Exemplos de Uso
-Aqui estão alguns exemplos de entrada e saída para ilustrar como usar o sistema de autocompletar palavras:
+## Exemplo de Uso
 
-1.Exemplo 1:
-Entrada:
-- Corpus: "O sol brilha durante o dia enquanto a lua brilha durante a noite."
-  - Prefixo: "du"
-- Saída:
-  - Lista de Palavras: ["durante"]
+Aqui estão alguns exemplos de como usar o nosso sistema de autocompletar palavras usando uma árvore AVL:
 
-2.Exemplo 2:/n
-2.Entrada:
-- Corpus: "O gato caça o rato, enquanto o cachorro caça o gato."
-  - Prefixo: "ca"
-- Saída:
-  - Lista de Palavras: ["caça", "cachorro"]
+1. **Exemplo 1:**
+   - **Entrada:**
+     - Corpus: "O sol brilha durante o dia enquanto a lua brilha durante a noite."
+     - Prefixo: "du"
+   - **Saída:**
+     - Lista de Palavras: ["durante"]
+
+2. **Exemplo 2:**
+   - **Entrada:**
+     - Corpus: "O gato caça o rato, enquanto o cachorro caça o gato."
+     - Prefixo: "ca"
+   - **Saída:**
+     - Lista de Palavras: ["caça", "cachorro"]
+
+...
