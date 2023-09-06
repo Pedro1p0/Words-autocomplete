@@ -7,7 +7,7 @@ Este projeto consiste em criar um sistema de autocompletar palavras usando uma �
 - Pedro Henrique Bezerra Fernandes
 - Pedro Vitor Bezerra Clemente
 
-#Visão Geral
+# Visão Geral
 Neste projeto, utilizamos um corpus de texto como entrada e realizamos as seguintes etapas:
 
 1.Pré-processamento do Corpus:
@@ -20,7 +20,7 @@ Neste projeto, utilizamos um corpus de texto como entrada e realizamos as seguin
 3.Autocompletar:
 - Implementação de uma função que retorna palavras que começam com um determinado prefixo, percorrendo a árvore AVL. A função para de buscar assim que encontrar um nó que não corresponda ao prefixo.
 
-#Exemplos de Uso
+# Exemplos de Uso
 Aqui estão alguns exemplos de entrada e saída para ilustrar como usar o sistema de autocompletar palavras:
 
 1.Exemplo 1:
