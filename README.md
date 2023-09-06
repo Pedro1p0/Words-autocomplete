@@ -29,6 +29,7 @@ Entrada:
   - Prefixo: "du"
 - Saída:
   - Lista de Palavras: ["durante"]
+
 2.Exemplo 2:
 2.Entrada:
 - Corpus: "O gato caça o rato, enquanto o cachorro caça o gato."
