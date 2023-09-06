@@ -4,7 +4,7 @@ import three_main
 # Cria uma instância da árvore AVL
 avl_tree = three_main.AVLTree()
 
-strings = ["maçã", "banana", "laranja", "uva", "pera", "peneira"]
+strings = ["maçã", "banana", "laranja", "uva", "pera", "peneira","arvore"]
 
 for palavra in strings:
     avl_tree.add(palavra)
