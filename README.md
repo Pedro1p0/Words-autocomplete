@@ -11,27 +11,27 @@ Este projeto consiste em criar um sistema de autocompletar palavras usando uma �
 Neste projeto, utilizamos um corpus de texto como entrada e realizamos as seguintes etapas:
 
 1.Pré-processamento do Corpus:
-*Conversão de todo o texto para letras minúsculas.
-*Remoção de pontuações e caracteres especiais.
-*Divisão do texto em palavras.
-*Opcional: remoção de palavras de parada.
+-Conversão de todo o texto para letras minúsculas.
+-Remoção de pontuações e caracteres especiais.
+-Divisão do texto em palavras.
+-Opcional: remoção de palavras de parada.
 2.Construção da Árvore AVL:
-*Inserção de todas as palavras únicas do corpus em uma árvore AVL para otimizar a busca subsequente.
+-Inserção de todas as palavras únicas do corpus em uma árvore AVL para otimizar a busca subsequente.
 3.Autocompletar:
-*Implementação de uma função que retorna palavras que começam com um determinado prefixo, percorrendo a árvore AVL. A função para de buscar assim que encontrar um nó que não corresponda ao prefixo.
+-Implementação de uma função que retorna palavras que começam com um determinado prefixo, percorrendo a árvore AVL. A função para de buscar assim que encontrar um nó que não corresponda ao prefixo.
 
 #Exemplos de Uso
 Aqui estão alguns exemplos de entrada e saída para ilustrar como usar o sistema de autocompletar palavras:
 
 1.Exemplo 1:
 Entrada:
-*Corpus: "O sol brilha durante o dia enquanto a lua brilha durante a noite."
-  *Prefixo: "du"
-*Saída:
-  *Lista de Palavras: ["durante"]
+-Corpus: "O sol brilha durante o dia enquanto a lua brilha durante a noite."
+  -Prefixo: "du"
+-Saída:
+  -Lista de Palavras: ["durante"]
 2.Exemplo 2:
 2.Entrada:
-*Corpus: "O gato caça o rato, enquanto o cachorro caça o gato."
-  *Prefixo: "ca"
-*Saída:
-  *Lista de Palavras: ["caça", "cachorro"]
+-Corpus: "O gato caça o rato, enquanto o cachorro caça o gato."
+  -Prefixo: "ca"
+-Saída:
+  -Lista de Palavras: ["caça", "cachorro"]
