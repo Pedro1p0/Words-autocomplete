@@ -4,8 +4,8 @@
 Este projeto consiste em criar um sistema de autocompletar palavras usando uma árvore AVL. O sistema é capaz de sugerir palavras completas com base em um prefixo fornecido pelo usuário. O projeto foi desenvolvido como parte de um trabalho acadêmico na disciplina DCA0209 - ALGORITMOS E ESTRUTURAS DE DADOS II - T01 da Universidade Federal do Rio Grande do Norte.
 
 # Equipe
-*Pedro Henrique Bezerra Fernandes
-*Pedro Vitor Bezerra Clemente
+* Pedro Henrique Bezerra Fernandes
+* Pedro Vitor Bezerra Clemente
 
 #Visão Geral
 Neste projeto, utilizamos um corpus de texto como entrada e realizamos as seguintes etapas:
