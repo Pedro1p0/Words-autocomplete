@@ -37,5 +37,3 @@ Aqui estão alguns exemplos de como usar o nosso sistema de autocompletar palavr
      - Prefixo: "ca"
    - **Saída:**
      - Lista de Palavras: ["caça", "cachorro"]
-
-...
