@@ -28,7 +28,7 @@ def process_text_file(file_path):
         return palavras_filtradas
 
 # capitulo de a arte da guerra
-file_path = 'C:/Users/Clemente/Desktop/ED2/Proj1/Words-autocomplete/Autocomplete/arte_da_guerra.txt'
+file_path = 'arte_da_guerra.txt'
 
 
 palavras_filtradas = process_text_file(file_path)
