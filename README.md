@@ -24,6 +24,7 @@ Neste projeto, utilizamos um corpus de texto como entrada e realizamos as seguin
 Aqui estão alguns exemplos de entrada e saída para ilustrar como usar o sistema de autocompletar palavras:
 
 1.Exemplo 1:
+
 Entrada:
 - Corpus: "O sol brilha durante o dia enquanto a lua brilha durante a noite."
   - Prefixo: "du"
@@ -31,6 +32,7 @@ Entrada:
   - Lista de Palavras: ["durante"]
 
 2.Exemplo 2:
+
 2.Entrada:
 - Corpus: "O gato caça o rato, enquanto o cachorro caça o gato."
   - Prefixo: "ca"
