@@ -40,4 +40,4 @@ Aqui estão alguns exemplos de como usar o nosso sistema de autocompletar palavr
 
 
 # Explicacao em video
-<iframe src="[https://drive.google.com/file/d/SEU-ID-DE-ARQUIVO-DO-GOOGLE-DRIVE/preview](https://drive.google.com/drive/u/1/folders/1cMgvdxs_qbukjrRDjP8DdDjufSzdEMfF)https://drive.google.com/drive/u/1/folders/1cMgvdxs_qbukjrRDjP8DdDjufSzdEMfF" width="640" height="480"></iframe>
+<iframe src="https://drive.google.com/drive/u/1/folders/1cMgvdxs_qbukjrRDjP8DdDjufSzdEMfF" width="640" height="480"></iframe>
