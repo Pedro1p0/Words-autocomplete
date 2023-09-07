@@ -73,8 +73,8 @@ avl_tree.print_tree()
 [Assista ao vídeo](https://www.youtube.com/embed/98V-UI0NGlg)
 
 # Repositorio Geral
-[Pedro Vitor Bezerra Clemente](https://github.com/Pedro1p0/Algoritmo-e-estrutura-de-dados-ll.git)
-[Pedro Henrique Bezerra Fernandes](https://github.com/PedroHenrique18/Algoritmo-e-estrutura-de-dados-II.)
+- [Pedro Vitor Bezerra Clemente](https://github.com/Pedro1p0/Algoritmo-e-estrutura-de-dados-ll.git)
+- [Pedro Henrique Bezerra Fernandes](https://github.com/PedroHenrique18/Algoritmo-e-estrutura-de-dados-II.)
 
 ## Como Usar
 
