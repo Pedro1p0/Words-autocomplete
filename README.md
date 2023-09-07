@@ -69,6 +69,10 @@ avl_tree.print_tree()
    
    Este é o resultado da função de autocompletar, que retorna uma lista de palavras correspondentes.
 
-# Explicacao em video
-[Assista ao vídeo](https://drive.google.com/file/d/16c20shM7sgZjIccxsQ3HMhNDlQuwIlCL/view?usp=sharing)
+# Explicaçao em video
+[Assista ao vídeo](https://www.youtube.com/embed/98V-UI0NGlg)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/98V-UI0NGlg" frameborder="0" allowfullscreen></iframe>
+
+
 
