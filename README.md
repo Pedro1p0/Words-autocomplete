@@ -70,4 +70,5 @@ avl_tree.print_tree()
    Este é o resultado da função de autocompletar, que retorna uma lista de palavras correspondentes.
 
 # Explicacao em video
-<iframe src="[https://drive.google.com/file/d/SEU-ID-DE-ARQUIVO-DO-GOOGLE-DRIVE/preview](https://drive.google.com/drive/u/1/folders/1cMgvdxs_qbukjrRDjP8DdDjufSzdEMfF)https://drive.google.com/drive/u/1/folders/1cMgvdxs_qbukjrRDjP8DdDjufSzdEMfF" width="640" height="480"></iframe>
+[Assista ao vídeo](https://drive.google.com/file/d/16c20shM7sgZjIccxsQ3HMhNDlQuwIlCL/view?usp=sharing)
+
