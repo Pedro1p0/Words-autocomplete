@@ -72,8 +72,31 @@ avl_tree.print_tree()
 # Explicaçao em video
 [Assista ao vídeo](https://www.youtube.com/embed/98V-UI0NGlg)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/98V-UI0NGlg" frameborder="0" allowfullscreen></iframe>
+# Repositorio Geral
+[Pedro Vitor Bezerra Clemente](https://github.com/Pedro1p0/Algoritmo-e-estrutura-de-dados-ll.git)
+[Pedro Henrique Bezerra Fernandes](https://github.com/PedroHenrique18/Algoritmo-e-estrutura-de-dados-II.)
 
+## Como Usar
 
+Para utilizar este sistema de autocompletar palavras com uma Árvore AVL, siga os passos abaixo:
 
+1. **Pré-requisitos:**
+
+   Certifique-se de ter Python instalado no seu sistema.
+
+2. **Clone o repositório:**
+
+   ```bash
+   git clone https://github.com/Pedro1p0/Words-autocomplete.git
+
+3.Execute a aplicação:
+Coloque um texto de sua preferência e depois execute o main.py no seu terminal
+```python
+file_path = 'carregue um texto de sua preferencia em formato .txt'
+```
+Execute o programa main.py no terminal usando o comando python main.py:
+```python
+python main.py
+```
+   
 
