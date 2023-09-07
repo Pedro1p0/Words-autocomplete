@@ -90,7 +90,7 @@ Para utilizar este sistema de autocompletar palavras com uma Árvore AVL, siga o
    git clone https://github.com/Pedro1p0/Words-autocomplete.git
 
 3.Execute a aplicação:
-Coloque um texto de sua preferência e depois execute o main.py no seu terminal
+Coloque um texto de sua preferência
 ```python
 file_path = 'carregue um texto de sua preferencia em formato .txt'
 ```
